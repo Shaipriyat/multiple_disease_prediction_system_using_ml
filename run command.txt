@@ -1,1 +1,1 @@
-streamlit run "C:\Users\shaip\Desktop\MajorProject\app.py"
+streamlit run "FILE_LOCATION"
