@@ -1,0 +1,3 @@
+streamlit run "C:\Users\shaip\Desktop\MajorProject\app.py"
+
+AIzaSyCf2b255K1BmnZiC0rf33lBJNxOkwf6SeE ->API key
