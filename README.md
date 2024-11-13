@@ -1,0 +1,1 @@
+The Multiple Disease Prediction System (MDPS) uses anonymized patient records, including demographic data, medical history, and symptoms to predict the likelihood of multiple diseases. In addition, Symptom-Based Disease Prediction is integrated into the system, allowing users to input symptoms and receive real-time predictions of potential diseases.
